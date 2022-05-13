@@ -1,0 +1,12 @@
+.news{
+    display: flex;
+    align-items: baseline;
+    .bg-news{
+        background-color: rgb(232, 234, 246);
+        border: rgb(232, 234, 246);
+        border-radius: 8px;
+    }
+}
+.card-css{
+    display: flex;
+}
